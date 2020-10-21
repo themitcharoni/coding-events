@@ -8,6 +8,7 @@ import java.util.Objects;
 /**
  * Created by Chris Bay
  */
+@Enti
 public class Event {
 
     private int id;
